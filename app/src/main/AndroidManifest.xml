@@ -12,7 +12,11 @@
 
         </activity>
 
-        <service android:name=".service.MyService" />
+        <service android:name=".service.MyService">
+            <intent-filter>
+                <action android:name="bianbian"/>
+            </intent-filter>
+        </service>
 
         <activity android:name=".activity.AppActivity" >
             <intent-filter>
