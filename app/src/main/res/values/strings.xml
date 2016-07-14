@@ -6,4 +6,6 @@
     <string name="unBind_service">解绑服务</string>
     <string name="jump_activity">打开界面</string>
     <string name="finish_activity">结束界面</string>
+    <string name="start_thread">开启线程</string>
+    <string name="start_thread_other">开启另一个线程</string>
 </resources>
